@@ -1,17 +1,39 @@
-# world_time
+# world_time_flutter
 
-A new Flutter project.
+Source code and project resources for world_time_flutter.
+
+## Overview
+
+This repository contains the source code and resources for **world_time_flutter**.
+
+## Technologies
+
+- Dart
+- HTML
+- Kotlin
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```bash
+git clone https://github.com/Kanishq10/world_time_flutter.git
+cd world_time_flutter
+```
 
-A few resources to get you started if this is your first Flutter project:
+Review the project files and configuration to install dependencies and start the application.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Repository Contents
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- `.gitignore`
+- `.metadata`
+- `README.md`
+- `analysis_options.yaml`
+- `android`
+- `assets`
+- `lib`
+- `pubspec.lock`
+- `pubspec.yaml`
+- `web`
+
+## Contributing
+
+Contributions are welcome. Fork the repository, create a feature branch, and open a pull request.
