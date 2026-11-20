@@ -1,31 +1,47 @@
-# world_time_flutter
+# world time flutter
 
-Source code and project resources for world_time_flutter.
+**Portfolio project** · A Flutter application that presents world-time information through a mobile-friendly interface.
 
 ## Overview
 
-This repository contains the source code and resources for **world_time_flutter**.
+A Flutter application that presents world-time information through a mobile-friendly interface.
 
-## Technologies
+## Technology Stack
 
-- Dart
-- HTML
-- Kotlin
+- `Dart`
+- `Flutter`
+- `Cross-platform UI`
+- `HTML`
 
-## Getting Started
+## How the Repository Works
 
-```bash
-git clone https://github.com/Kanishq10/world_time_flutter.git
-cd world_time_flutter
+```mermaid
+flowchart LR
+    N0["App launch<br/> Initialize Flutter UI"]
+    N1["Data / Game state<br/> Resolve state or assets"]
+    N0 --> N1
+    N2["Widget tree<br/> Render the cross-platform interface"]
+    N1 --> N2
 ```
 
-Review the project files and configuration to install dependencies and start the application.
+| Stage | Responsibility |
+|---|---|
+| **App launch** | Initialize Flutter UI |
+| **Data / Game state** | Resolve state or assets |
+| **Widget tree** | Render the cross-platform interface |
 
-## Repository Contents
+## Concepts Covered
+
+- Cross-platform widgets
+- State and navigation
+- Assets and configuration
+- Responsive layout
+- Platform integration
+
+## Repository Map
 
 - `.gitignore`
 - `.metadata`
-- `README.md`
 - `analysis_options.yaml`
 - `android`
 - `assets`
@@ -34,6 +50,10 @@ Review the project files and configuration to install dependencies and start the
 - `pubspec.yaml`
 - `web`
 
-## Contributing
+## Recruiter Summary
 
-Contributions are welcome. Fork the repository, create a feature branch, and open a pull request.
+This repository demonstrates practical implementation skills, repository organization, and an end-to-end understanding of the project workflow. It is suitable as a focused example of applied software or data work.
+
+---
+
+<sub>Documentation is concise and project-focused; source code was not modified.</sub>
